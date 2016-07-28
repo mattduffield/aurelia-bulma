@@ -1,22 +1,22 @@
 {
-  "name": "aurelia-skeleton-plugin",
+  "name": "aurelia-bulma",
   "version": "1.0.0",
-  "description": "A starter kit for building an Aurelia plugin.",
+  "description": "This is a port of the Bulma library targeting the Aurelia Framework.",
   "keywords": [
     "aurelia",
     "plugin",
-    "skeleton"
+    "bulma"
   ],
-  "homepage": "http://aurelia.io",
+  "homepage": "http://mattduffield.wordpress.com",
   "bugs": {
-    "url": "https://github.com/aurelia/skeleton-plugin/issues"
+    "url": "https://github.com/mattduffield/aurelia-bulma/issues"
   },
   "license": "CC0-1.0",
-  "author": "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)",
+  "author": "Matt Duffield <matt.duffield@gmail.com> (http://mattduffield.wordpress.com/)",
   "main": "dist/commonjs/index.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/aurelia/skeleton-plugin"
+    "url": "http://github.com/mattduffield/aurelia-bulma"
   },
   "devDependencies": {
     "aurelia-tools": "^0.2.4",
