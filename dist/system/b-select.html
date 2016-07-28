@@ -1,0 +1,12 @@
+<template>
+  <label class="label" 
+    innerHTML.bind="label"></label>
+  <div class="control">
+    <div class="select is-fullwidth">
+      <select value.bind="value">
+        <option if.bind="prompt">${prompt}</option>
+        <option repeat.for="item of items" model.bind="$parent.getValue(item)">${$parent.getDisplay(item)}</option>
+      </select>
+    </div>
+  </div>
+</template>

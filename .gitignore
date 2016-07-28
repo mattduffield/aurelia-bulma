@@ -1,0 +1,8 @@
+node_modules
+.DS_STORE
+npm-debug.log*
+/typings
+/.awcache
+/electron.js*
+/release
+/test/coverage
