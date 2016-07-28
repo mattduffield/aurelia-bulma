@@ -49,6 +49,6 @@ export function configure(config) {
     './b-tile-article-box',
     './b-tile-box',
     // Attributes
-    './is-class',
+    './b-class',
 );
 }
