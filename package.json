@@ -71,7 +71,7 @@
         "aurelia-bulma/b-tile",
         "aurelia-bulma/b-title"
       ]
-    },
+    }
   },  
   "devDependencies": {
     "aurelia-tools": "^0.2.4",
